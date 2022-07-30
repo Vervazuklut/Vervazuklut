@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **python,html,css,bootstrap**
 
-- 📫 How to reach me **You Dont**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
