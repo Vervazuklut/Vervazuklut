@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vervazklut</h1>
 <h3 align="center">A passionate developer. I like to learn all sorts of languages.I am experienced in frontend developement and Data Science. However, I can also do Backend and some game developement.</h3>
 
-- 🔭 I’m currently working on **-**
-
 - 🌱 I’m currently learning **C++,Unity**
-
-- 👯 I’m looking to collaborate on **-**
-
-- 🤝 I’m looking for help with **-**
 
 - 💬 Ask me about **python,html,css,bootstrap**
 
-- 📫 How to reach me **Who knows?**
+- 📫 How to reach me **You Dont**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
