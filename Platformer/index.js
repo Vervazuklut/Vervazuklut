@@ -1,4 +1,3 @@
-const path = require(['path'])
 const canvas = document.querySelector('canvas')
 const c = canvas.getContext('2d') //c is context
 canvas.width = 1024
