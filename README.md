@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vervazklut</h1>
 <h3 align="center">A passionate developer. I like to learn all sorts of languages.I am experienced in frontend developement and Data Science. However, I can also do Backend and some game developement.</h3>
 
-- 🌱 I’m currently learning **C++,Unity**
+- 🌱 I’m currently learning **Swift, Flammangio**
 
-- 💬 Ask me about **python,html,css,bootstrap**
+- 💬 Ask me about **Python, Html, Css, Bootstrap, C, C++, Unity, Javascript, MySQL, GameMaker Studio**
 
 <p align="left">
 </p>
