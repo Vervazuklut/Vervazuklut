@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vervazklut</h1>
-<h3 align="center">A passionate developer. I like to learn all sorts of languages. I am experienced in frontend developement and Data Science. However, I can also do Backend and game developement, and even a bit of machine learning.</h3>
+<h3 align="center">A passionate developer. I like to learn all sorts of languages. I am experienced in frontend developement and Data Science. However, I can also do Backend and game developement, some web exploitation, and even a bit of machine learning.</h3>
 
 - 🌱 I’m currently learning **R, Rust, Go, Perl**
 
