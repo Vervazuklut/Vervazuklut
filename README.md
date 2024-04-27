@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **R, Rust, Go, Perl**
 
-- 💬 Ask me about **Python, Html, Css, Bootstrap, C, C++,C#, Unity, Javascript, MySQL, GameMaker Studio, Swift, Batch, Java, PHP**
+- 💬 Ask me about **Python, Html, Css, Bootstrap, C, C++,C#, Unity, Javascript, MySQL, GameMaker Studio, Swift, Batch, Java, PHP, Node.JS, Flask**
 
 <p align="left">
 </p>
